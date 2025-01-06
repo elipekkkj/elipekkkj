@@ -5,7 +5,7 @@
 
 ![Top Langs Luis Filipe](https://github-readme-stats.vercel.app/api/top-langs/?username=elipekkkj&layout=compact)
 
-## Tecnologias que eu ultilizo.
+## Tecnologias que eu utilizo.
 
 <div style="display: inline_block">
   <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
